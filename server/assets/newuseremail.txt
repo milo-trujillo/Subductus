@@ -1,0 +1,7 @@
+Hi there, and welcome to Subductus!
+
+Someone has created an account on our game server and used your email address. If this was done in error then we apologize, and ask that you ignore this message.
+
+We welcome you to our sunken fantasy! To start playing, log back in with your selected username and the password at the end of this email. You can change your password once logged in with the 'changepassword' command.
+
+

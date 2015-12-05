@@ -1,0 +1,59 @@
+#!/usr/bin/env ruby
+
+=begin
+	This is an example configuration file for Subductus. Since it includes
+	information like email addresses and port numbers we require that all
+	users manually edit this before before starting the game server.
+
+	THE BIG ONES YOU WANT TO EDIT:
+		* EmailAddress
+		* EmailConfig
+		* UserPasswordSalt
+=end
+
+require 'mail'
+
+module Configuration
+	#
+	# Network configuration
+	#
+	Port = 5678
+	EmailAddess = "example@zombo.com" # Used to send 'invites' for new users
+	# Set the below to your email server, port, and login so we can send mail
+	EmailConfig = { :address              => "mail.example.com",
+	                :port                 => 587,
+	                :domain               => "localhost",
+	                :user_name            => "your_username",
+	                :password             => "your_password",
+	                :authentication       => "plain",
+	                :enable_starttls_auto => true }
+	# Don't touch this next line, we need it for sending welcome mail
+	Mail.defaults { delivery_method "smtp", EmailConfig }
+
+	#
+	# Authentication
+	# 
+	UserPasswordSalt = "cYwMrPTxn5FhOyv1" # Set this to a random string of text
+	DefaultPasswordLength = 15
+
+	#
+	# Gameplay configuration
+	#
+	DefaultLocation = "Dead Ship"
+
+	#
+	# Server technical configuration
+	#
+	Daemonize = false
+	LogfilePath = "/tmp/subductus_log.txt" # Unused unless Daemonize == true
+	LocationsDir = "./locations"
+	ItemsDir = "./items"
+	SceneryDir = "./scenery"
+	StateDir = "./state"
+	AssetsDir = "./assets"
+	NewUserEmail = AssetsDir + "/" + "newuseremail.txt"
+	MapStateFile = StateDir + "/" + "map.data"
+	UserStateFile = StateDir + "/" + "users.data"
+	# Do not touch the next line unless you are quite sure what you are doing.
+	StateFiles = [MapStateFile, UserStateFile]
+end
