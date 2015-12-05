@@ -19,5 +19,6 @@ To run the Subductus client you will need:
 
 To run the Subductus server you will need:
 
-1. Ruby2+ (And preferably JRuby for performance reasons)
-2. Assorted libraries I'll list later
+Ruby2+ (And preferably JRuby for performance reasons), and the gems:
+
+1. mail
