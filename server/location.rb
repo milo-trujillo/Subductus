@@ -44,12 +44,3 @@ class Location
 		return nil
 	end
 end
-
-f = File.open("locations/example_room.txt", "r")
-d = f.read()
-loc = Location.new(d)
-puts "Name: #{loc.name}"
-puts "Description: #{loc.description}"
-for ex in loc.getExits
-	puts "\t#{ex} => #{loc.getExitDestination(ex)}"
-end
