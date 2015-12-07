@@ -18,6 +18,8 @@ d = f.read()
 loc = Location.new(d)
 puts "Name: #{loc.name}\n"
 puts "Description: #{loc.description}\n"
+puts "Scenery: #{loc.getScenery}\n"
+puts "\nExits:"
 for ex in loc.getExits
 	puts "\t#{ex} => #{loc.getExitDestination(ex)}"
 end
