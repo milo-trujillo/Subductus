@@ -39,7 +39,7 @@ module Configuration
 	#
 	# Gameplay configuration
 	#
-	DefaultLocation = "Dead Ship"
+	DefaultLocation = "Dead Ship Cabin"
 
 	#
 	# Server technical configuration
