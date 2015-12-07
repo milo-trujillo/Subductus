@@ -1,0 +1,9 @@
+Dead Ship Cabin
+#
+Hatch,Dead Ship Cargo Hold
+Door,Dead Ship Bridge
+#
+Dead Ship Cabin Window
+Dead Ship Cabin Table
+#
+There is a thick musty scent in this room; a place that has been left too wet for too long with too little cleaning. The walls are coated with peeling sunflower wallpaper, a reminder of calmer times.

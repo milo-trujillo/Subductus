@@ -5,7 +5,11 @@
 	location in the game world. It parses a text blob describing a location, and
 	stores data about the name, description, and exits. Information about the
 	items or scenery in the location is stored separately.
+
+	Locations are constant, they do not have a "state" you need to save to disk.
 =end
+
+require 'set'
 
 class Location
 	attr_reader :description
@@ -15,16 +19,24 @@ class Location
 		begin
 			sections = textblob.split("#\n")
 			@name = sections[0]
-			@description = sections[2]
+			@description = sections[3]
 			@exits = Hash.new
 			exits = sections[1].split("\n")
 			for e in exits
 				(descr, dest) = e.split(",")
 				@exits.store(descr, dest)
 			end
+			@scenery = Set.new
+			for s in sections[2].split("\n")
+				@scenery.add(s)
+			end
 		rescue 
 			raise "Invalid input file!"
 		end
+	end
+
+	def getScenery()
+		return @scenery.to_a
 	end
 
 	def getExits()

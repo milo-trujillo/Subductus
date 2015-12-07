@@ -4,4 +4,7 @@ ExitDoor,Room2
 ExitHatch,TopOfBoat
 ExitLadder,BoatHold
 #
+SceneryTable
+SceneryChair
+#
 This is a long text description of the room given when you first enter, or if specifically asked for again.

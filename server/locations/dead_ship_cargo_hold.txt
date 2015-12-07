@@ -1,0 +1,9 @@
+Dead Ship Cargo Hold
+#
+Hatch,Dead Ship Cabin
+Door,Dead Ship Engine Room
+#
+Dead Ship Cargo Vent
+Dead Ship Cargo Water
+#
+Bottom of the boat. There is an inch of water at your feet, dripping in slowly from somewhere. 
