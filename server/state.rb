@@ -37,5 +37,6 @@ module State
 
 	def State.newState()
 		Map.loadLocations
+		Map.loadScenery
 	end
 end
