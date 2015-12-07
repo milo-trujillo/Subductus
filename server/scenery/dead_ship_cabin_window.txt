@@ -1,0 +1,5 @@
+Dead Ship Cabin Window
+#
+window
+#
+You see a still ocean through the window, clear to the horizon. Pretty, if desolate.
