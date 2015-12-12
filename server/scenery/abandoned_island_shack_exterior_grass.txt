@@ -1,0 +1,5 @@
+Abandoned Island Shack Exterior Grass
+#
+grass
+#
+The grass is overgrown and quite dry. 

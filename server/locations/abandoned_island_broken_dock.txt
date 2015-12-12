@@ -1,0 +1,9 @@
+Abandoned Island Broken Dock
+#
+Left Path, Abandoned Island Shack
+Right Path, Abandoned Island Trail
+#
+Abandoned Island Broken Dock Boards
+Abandoned Island Broken Dock Rope
+#
+The boards creak as you walk across what was once a boat dock; there are no sounds save for the crashing waves on nearby rocks. 

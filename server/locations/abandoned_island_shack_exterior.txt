@@ -1,0 +1,10 @@
+Abandoned Island Shack Exterior
+#
+Path, Abandoned Island Broken Dock
+Door, Abandoned Island Shack
+#
+Abandoned Island Shack Exterior Window
+Abandoned Island Shack Exterior Wood Pile
+Abandoned Island Shack Exterior Grass
+#
+You come upon an abandoned shack. The roof is partially collapsed, and nature has begun to reclaim the small structure. You can't help but feel a sadness, knowing that whoever once lived here has clearly been gone for quite some time. 

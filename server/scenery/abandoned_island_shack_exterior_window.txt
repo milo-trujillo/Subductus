@@ -1,0 +1,5 @@
+Abandoned Island Shack Exterior Window
+#
+window
+#
+There are a few shards of glass still remaining in the empty window frame. You can see that the shack is mostly empty, but you can also tell there is something inside, though from this far away, you can't quite tell what. 
