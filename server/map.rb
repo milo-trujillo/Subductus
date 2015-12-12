@@ -19,6 +19,7 @@ module Map
 		}
 		for i in (0 .. locations.size - 1)
 			print "\rLoading locations [#{i + 1}]..."
+			STDOUT.flush
 			fname = locations[i]
 			f = File.open(Configuration::LocationsDir + "/" + fname, "r")
 			loc = Location.new(f.read)
@@ -35,6 +36,7 @@ module Map
 		}
 		for i in (0 .. scenery.size - 1)
 			print "\rLoading scenery [#{i + 1}]..."
+			STDOUT.flush
 			fname = scenery[i]
 			f = File.open(Configuration::SceneryDir + "/" + fname, "r")
 			sce = Scenery.new(f.read)
