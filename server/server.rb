@@ -21,15 +21,13 @@ require_relative 'user'
 require_relative 'state'
 
 
-PortNumber = 5678
-
 if $0 == __FILE__
 	if( State.stateExists? )
 		State.loadState
 	else
 		State.newState
 	end
-	serverSock = TCPServer.open(PortNumber)
+	serverSock = TCPServer.open(Configuration::Port)
 	puts "World sunken. Initialization complete." 
 	while( true )
 		client = serverSock.accept
