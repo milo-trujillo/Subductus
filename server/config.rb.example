@@ -52,6 +52,7 @@ module Configuration
 	StateDir = "./state"
 	AssetsDir = "./assets"
 	NewUserEmail = AssetsDir + "/" + "newuseremail.txt"
+	GameStartMessage = AssetsDir + "/" + "startgame.txt"
 	MapStateFile = StateDir + "/" + "map.data"
 	UserStateFile = StateDir + "/" + "users.data"
 	# Do not touch the next line unless you are quite sure what you are doing.
