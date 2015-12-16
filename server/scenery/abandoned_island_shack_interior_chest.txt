@@ -1,0 +1,5 @@
+Abandoned Island Shack Chest
+#
+chest
+# 
+The chest is made of metal and is severly dented. It contains a weathered leather bound journal, remnants of clothing, an empty first aid kit, and a broken picture frame with no picture inside. 
