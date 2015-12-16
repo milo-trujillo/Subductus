@@ -1,0 +1,5 @@
+Abandoned Island Shack Floor
+#
+floor
+#
+The floor is dusty, and littered with yellowed newspapers, broken glass bottles, and leaves. 

@@ -1,0 +1,5 @@
+Abandoned Island Shack Interior Window
+#
+window
+#
+You see the dock and hear the crashing of waves in the distance through the empty window frame.

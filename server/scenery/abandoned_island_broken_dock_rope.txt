@@ -2,4 +2,4 @@ Abandoned Island Broken Dock Rope
 #
 rope
 #
-This rope has clearly been here for quite some time. It is old and frayed, and seemingly attached to the dock. 
+This rope has clearly been here for quite some time. It is old and frayed.  

@@ -1,0 +1,5 @@
+Abandoned Island Shack Chest
+#
+chest
+# 
+The chest is made of a dark brown wood and is quite battered; though rusty locks still hold it shut, you can tell with some effort it can probably be opened. 

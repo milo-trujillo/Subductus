@@ -1,0 +1,9 @@
+Abandoned Island Shack Interior
+#
+Door, Abandoned Island Shack Exterior
+# 
+Abandoned Island Shack Chest
+Abandoned Island Shack Floor
+Abandoned Island Shack Window
+#
+Light from outside shines in through the partially collapsed roof. The inside of the shack is small and filled with rubble. A large, square object rests in the center of the room, covered in a tattered cloth.
