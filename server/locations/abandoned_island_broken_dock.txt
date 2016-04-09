@@ -1,7 +1,7 @@
 Abandoned Island Broken Dock
 #
 Left Path, Abandoned Island Shack
-Right Path, Abandoned Island Trail
+Right Path, Abandoned Island Trail 1
 #
 Abandoned Island Broken Dock Boards
 Abandoned Island Broken Dock Rope
