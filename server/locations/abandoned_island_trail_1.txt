@@ -1,7 +1,7 @@
 Abandoned Island Trail 1
 #
-Abandoned Island Trail 1, Abandoned Island Broken Dock
-Abandoned Island Trail 2, Abandoned Island Trail 3
+back, Abandoned Island Broken Dock
+trail, Abandoned Island Trail 3
 #
 Abandoned Island Trail Gravel
 Abandoned Island Trail Coastline

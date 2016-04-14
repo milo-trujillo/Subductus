@@ -1,0 +1,8 @@
+Abandoned Island Trail 4
+#
+trail, Abandoned Island Trail 5
+back, Abandoned Island Trail 3
+#
+cliffs
+#
+The trail continues and leads you to a rocky outcrop. 

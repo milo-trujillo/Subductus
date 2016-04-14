@@ -1,0 +1,8 @@
+Abandoned Island Trail 5
+#
+trail, Abandoned Island Broken Dock
+back, Abandoned Island Trail 4
+#
+metal box
+#
+The narrow path winds past the rocky outcrop and leads you to yet another beach. You can see the broken dock, along with your rowboat in the distance. The sand here is littered with debris, probably from a recent storm. You notice a glint in the sand that is definitely not driftwood. 
