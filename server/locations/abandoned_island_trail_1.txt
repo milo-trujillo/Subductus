@@ -1,11 +1,11 @@
 Abandoned Island Trail 1
 #
 back, Abandoned Island Broken Dock
-trail, Abandoned Island Trail 3
+trail, Abandoned Island Trail 2
 #
 Abandoned Island Trail Gravel
 Abandoned Island Trail Coastline
 Abandoned Island Trail Forest
 #
-The path leads you away from the docks along a sandy trail that follows the coast. On your left is dense forest, while the trail points ahead, with a view of the empty horizon on your right. You can hear the sounds of waves crashing, but not much else.
+The path leads away from the docks along a sandy trail that follows the coast. On the left is dense forest, while the trail points ahead, with a view of the empty horizon on your right. You can hear the sounds of waves crashing, but not much else.
 Up ahead, you notice the trail continues further. 

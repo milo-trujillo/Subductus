@@ -1,0 +1,5 @@
+Watchman's Home Outer View Dock
+#
+dock
+#
+From this far away, the dock appears to be a small floating platform attached to the larger floating platform the house is contained on. There are no boats attached to the dock. 

@@ -1,7 +1,7 @@
 Abandoned Island Trail 2
 #
 back, Abandoned Island Trail 1
-Abandoned Island Trail Fork, Waterfall
+Fork, Waterfall
 trail, Abandoned Island Trail 3
 #
 Abandoned Island Trail 2 Coastline

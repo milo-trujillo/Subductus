@@ -1,0 +1,9 @@
+Watchman's Home Outer View
+#
+dock, Watchman's Home Dock
+#
+tower
+house
+dock
+#
+A tall, metal tower emerges from beneath the waves and reaches far above you into the sky. It looks almost like a radio tower, but you can't really tell because it is so weathered. Not far away from the tower, there is a floating structure that appears to be a small home, with a dock floating in front of it.  

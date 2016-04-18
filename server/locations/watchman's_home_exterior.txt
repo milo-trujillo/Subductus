@@ -1,0 +1,13 @@
+Watchman's Home Exterior
+#
+front door, Watchman's Home Interior 1
+dock, Watchman's Home Dock
+#
+grass
+garden
+roof
+windows
+walls
+front door
+#
+You approach closer to the exterior of the structure. It appears to be a sturdily built cottage, meant to withstand extreme weather conditions. The walls are painted a delicate white, and it has many windows that are currently being obscured by bolted green hurricane shutters. There is a garden near the front door. 

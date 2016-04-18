@@ -1,0 +1,5 @@
+Watchman's Home Interior 1 Window
+#
+window
+#
+You look out the window, and notice that it is rather dirty. You can see the small area of grass outside and the ever expansive aquamarine sea. 

@@ -1,0 +1,13 @@
+Watchman's Home Interior 1
+#
+stairs, Watchman's Home Interior 2
+door, Watchman's Home Exterior
+#
+galley
+stove
+armchair
+bookshelf
+window
+man*
+#
+You enter the small house and find yourself in a cozy room. At the back of the room toward the righthand corner of the house, there is a narrow spiral staircase that appears to lead to another floor. Adjacent to the staircase on the left, there is a small galley space. Closest to you, there is a small potbelly stove on your left, and a weathered armchair facing you on your right. There is a man sitting in the armchair, who appears to be whittling a piece of wood. On the right-most wall of the house, there is a bookshelf and a small window that lets in sunlight from outside. The man in the armchair looks up at you.
